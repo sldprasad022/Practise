@@ -16,6 +16,5 @@ public class Person {
 	
 	private String personName;
 	
-	
 	private String address;
 }
